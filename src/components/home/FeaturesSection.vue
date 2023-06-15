@@ -42,7 +42,7 @@
                         <div class="text">
                             <h3>Boost Your Earnings.</h3>
                             <p>Earn Emissions on Supplied Assets with <br> Lend Board</p>
-                            <a target="_blank" href="https://darshprotocol.gitbook.io/product-docs/product-guide/lending">
+                            <a target="_blank" href="#">
                                 <div class="action">
                                     <div class="div"></div>
                                     <p>Learn More</p>

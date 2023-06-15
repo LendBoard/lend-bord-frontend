@@ -254,7 +254,7 @@ main {
 
 .bgimg {
     width: 100%;
-    /* height: 800px; */
+     height: 960px;
     object-fit: fill;
 }
 
